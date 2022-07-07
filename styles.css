@@ -1,0 +1,29 @@
+body{
+  background: lightgray;
+  font-family: 'Rubik', sans-serif;
+}
+
+div{
+  text-align: center;
+}
+
+h2 {
+  margin-top: 24px;
+  margin-bottom: 8px;
+}
+
+img{
+  width: 40%;
+  margin: auto;
+  display: block;
+}
+
+figcaption{
+  font-size: 15px;
+}
+
+a{
+  text-decoration: none;
+  color: #00082F;
+  font-family: 'Rubik', sans-serif;
+}
